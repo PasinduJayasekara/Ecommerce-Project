@@ -35,20 +35,20 @@
 
     <section id="prodetails" class="section-1">
         <div class="single-pro-image">
-            <img src="img/products/f1.jpg" width="100%" id="MainImg" alt="">
+            <img src="resources/mobile_images/a1.jpg" width="100%" id="MainImg" alt="">
 
             <div class="small-img-group">
                 <div class="small-img-col">
-                    <img src="img/products/f1.jpg" width="100%" class="small-img" alt="">
+                    <img src="resources/mobile_images/adiim4494_cwhiteblack_10.jpg" width="100%" class="small-img" alt="">
                 </div>
                 <div class="small-img-col">
-                    <img src="img/products/f2.jpg" width="100%" class="small-img" alt="">
+                    <img src="" width="100%" class="small-img" alt="">
                 </div>
                 <div class="small-img-col">
-                    <img src="img/products/f3.jpg" width="100%" class="small-img" alt="">
+                    <img src="" width="100%" class="small-img" alt="">
                 </div>
                 <div class="small-img-col">
-                    <img src="img/products/f4.jpg" width="100%" class="small-img" alt="">
+                    <img src="" width="100%" class="small-img" alt="">
                 </div>
             </div>
         </div>
