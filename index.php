@@ -28,7 +28,7 @@
                 <div class="row">
                     <div class="col-12 logo"></div>
                     <div class="col-12">
-                        <p class="text-center title01">WELCOME</p>
+                        <p class="text-center title01">WELCOME !</p>
                     </div>
                 </div>
             </div>
